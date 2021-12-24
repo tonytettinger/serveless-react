@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../Users/antaltettinger/Projects/egghead/serverless-react/serverless-typescript/netlify/functions/hello-world.ts"],
+  "sourceRoot": "/var/folders/f1/p_zmsbj93dqcpr1qtdslz4sm0000gn/T/tmp-34185-8J96X8t08WsT",
+  "sourcesContent": ["import { Handler } from '@netlify/functions';\n\nexport const handler: Handler = async () => {\n  return {\n    statusCode: 200,\n    body: 'hello There'\n  }\n}"],
+  "mappings": ";;;;;;;;;AAAA;AAAA;AAAA;AAEO,IAAM,UAAmB,YAAY;AAC1C,SAAO;AAAA,IACL,YAAY;AAAA,IACZ,MAAM;AAAA;AAAA;",
+  "names": []
+}
